@@ -21,6 +21,9 @@ public class Shop {
         this.city = city;
     }
 
+    public Shop() {
+    }
+
     public int getShop_id() {
         return shop_id;
     }

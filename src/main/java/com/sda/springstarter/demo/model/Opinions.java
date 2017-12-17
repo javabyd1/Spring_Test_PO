@@ -21,6 +21,9 @@ public class Opinions {
         this.comment = comment;
     }
 
+    public Opinions() {
+    }
+
     public int getId() {
         return id;
     }
